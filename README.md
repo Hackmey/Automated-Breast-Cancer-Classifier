@@ -20,7 +20,6 @@ This project leverages deep learning for the classification of breast cancer fro
 - **Language**: Python
 - **Libraries**: TensorFlow, NumPy, Pandas, Matplotlib, OpenCV
 - **IDE**: JKaggle Notebook
-- **Others**: Google Colab (for training)
 
 ---
 
